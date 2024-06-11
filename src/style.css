@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url(/first-vite/node_modules/sweetalert2/dist/sweetalert2.min.css);
+
+.swal2-title{
+    @apply text-orange-400
+}
